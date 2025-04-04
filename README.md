@@ -10,32 +10,6 @@
 
 I'm a passionate AI/ML enthusiast currently pursuing my Master’s in Computer Science with a focus on **Artificial Intelligence and Machine Learning** at Oregon State University (GPA: 3.84). With a strong foundation in computer science ,machine learning, and NLP, I thrive on solving real-world problems using innovative and scalable tech solutions.
 
----
-
-## 💼 Experience
-
-### 🧠 Research Intern — Yuan Ze University, Taiwan (Feb 2023 – Jun 2023)
-- Designed RL environments using Deep Q-Networks (DQN) and PyTorch.
-- Created reward systems and optimized learning through state-action-reward tuples.
-
-### 📊 Student Trainee Intern — Cata-list Consultant (Jan 2021 – Aug 2021)
-- Cleaned and visualized LMS data using Python and tools like Tableau, Seaborn, and Plotly.
-- Improved academic tracking impacting 50% of students.
-
----
-
-## 🔬 Projects
-
-### 🥑 **Avocado Ripeness Prediction**
-- **Spectroscopy-Based:** Achieved 94.8% classification accuracy using CNNs.
-- **Mobile Deployment:** Converted EfficientNetB0 model to TensorFlow Lite for real-time Android use, achieving R² of 0.89.
-
-### 🕹️ **Technical Debt in Pygame Engine**
-- Used SonarQube to analyze code quality and maintainability issues in open-source game engines.
-
-### 💬 **DialogueLLM: Emotion-Aware Language Model**
-- Fine-tuned LLM on 24K+ utterances from 5 datasets.
-- Achieved up to 5.36% improvement on Emotion Recognition in Conversations (ERC) tasks using LoRA training on A100 GPU.
 
 ---
 

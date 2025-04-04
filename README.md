@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate AI/ML enthusiast currently pursuing my Master’s in Computer Science with a focus on **Artificial Intelligence and Machine Learning** at Oregon State University (GPA: 3.84). With a strong foundation in data science, deep learning, and NLP, I thrive on solving real-world problems using innovative and scalable tech solutions.
+I'm a passionate AI/ML enthusiast currently pursuing my Master’s in Computer Science with a focus on **Artificial Intelligence and Machine Learning** at Oregon State University (GPA: 3.84). With a strong foundation in computer science ,machine learning, and NLP, I thrive on solving real-world problems using innovative and scalable tech solutions.
 
 ---
 

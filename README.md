@@ -26,10 +26,6 @@ I'm a passionate AI/ML enthusiast currently pursuing my Master’s in Computer S
 
 ## 🔬 Projects
 
-### 🖨️ **AI Smart Advisor for HP Printing Press**
-- Built a Hybrid RAG pipeline to extract structured data from test print reports using LLMs.
-- Implemented a weighted scoring retrieval system combining lexical and semantic similarity.
-
 ### 🥑 **Avocado Ripeness Prediction**
 - **Spectroscopy-Based:** Achieved 94.8% classification accuracy using CNNs.
 - **Mobile Deployment:** Converted EfficientNetB0 model to TensorFlow Lite for real-time Android use, achieving R² of 0.89.

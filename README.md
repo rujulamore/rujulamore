@@ -1,14 +1,18 @@
  👩‍💻 Rujula More
 
-**Master’s Student in Computer Science (AI/ML)**  
+**Master’s Student in Computer Science Minor in AI**  
 📍 Oregon State University | 🌐 [LinkedIn](https://www.linkedin.com/in/rujula-more-19b8721a6)  
 📫 morer@oregonstate.edu | 📱 +1 (971) 563 9711  
+---
+- 🔭 I’m currently looking for fulltime opportunities in the US ,ready to relocate
+- 🌱 I’m currently learning **Node.js**,**Express**
+- 📫 How to reach me: [morer@oregonstate.edu](mailto:morer@oregonstate.edu)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate AI/ML enthusiast currently pursuing my Master’s in Computer Science with a focus on **Artificial Intelligence and Machine Learning** at Oregon State University (GPA: 3.84). With a strong foundation in computer science ,machine learning, and NLP, I thrive on solving real-world problems using innovative and scalable tech solutions.
+I'm a passionate AI/ML enthusiast currently pursuing my Master’s in Computer Science with a focus on **Artificial Intelligence and Machine Learning** at Oregon State University (GPA: 3.88). With a strong foundation in computer science ,machine learning, and NLP, I thrive on solving real-world problems using innovative and scalable tech solutions.
 
 
 ---

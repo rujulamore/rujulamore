@@ -3,6 +3,7 @@
 **Master’s Student in Computer Science Minor in AI**  
 📍 Oregon State University | 🌐 [LinkedIn](https://www.linkedin.com/in/rujula-more-19b8721a6)  
 📫 morer@oregonstate.edu | 📱 +1 (971) 563 9711  
+
 ---
 - 🔭 I’m currently looking for fulltime opportunities in the US ,ready to relocate
 - 🌱 I’m currently learning **Node.js**,**Express**

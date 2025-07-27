@@ -6,8 +6,8 @@
 
 ---
 - 🔭 I’m currently looking for fulltime opportunities in the US ,ready to relocate
-- 🌱 I’m currently learning **Node.js**,**Express**
-- 📫 How to reach me: [morer@oregonstate.edu](mailto:morer@oregonstate.edu)
+- 🌱 I’m currently learning Thread creation and management
+- 📫 How to reach me: [rujula2001@gmail.com](mailto:rujula2001@gmail.com)
 
 ---
 
